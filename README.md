@@ -1,6 +1,6 @@
 # Movie Home
 
-This is a Movie Home App and Using REST-API
+This is a Movie Home App Using REST-API
 
 # Tools
 - State Management & Bloc
