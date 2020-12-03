@@ -9,7 +9,7 @@ import 'package:moviehome/model/video_response.dart';
 // Created By Mahmoud El Shenawy (Email : Mr.Mahmoud.El.Shenawy@Gmail.com)
 
 class MovieRepository {
-  final String apiKey = "03fb013d88e6cd82b933f566f1d0ea3e";
+  final String apiKey = "";
   static String mainUrl = 'https://api.themoviedb.org/3';
   final Dio _dio = Dio();
 
