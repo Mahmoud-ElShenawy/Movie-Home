@@ -24,8 +24,8 @@ This is a Movie Home App Using REST-API
 # Screenshots 
 There are Some Screenshots to Show How My App Looks. Open Screenshots Folder To See More Pictures
 
-![](Screenshots/1.png)
-![](Screenshots/2.png)
-![](Screenshots/3.png)
-![](Screenshots/4.png)
-![](Screenshots/5.png)
+![](ScreenShots/1.png)
+![](ScreenShots/2.png)
+![](ScreenShots/3.png)
+![](ScreenShots/4.png)
+![](ScreenShots/5.png)
